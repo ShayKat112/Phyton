@@ -9,3 +9,4 @@ x(4)
 
 def m(num):
     num = 2
+print("hello")
